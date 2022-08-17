@@ -1,0 +1,57 @@
+{
+"createStudent": {
+  "id": 8,
+  "name": "Parthiban",
+  "age": 24,
+  "email": "parthibanv123@gmail.com"
+  },
+  "createStudent_2": {
+    "id": 5,
+    "name": "Parthiban VP",
+    "age": 23,
+    "email": "parthibanvp123@gmail.com"
+  },
+  "updateStudent": {
+    "id": 8,
+    "name": "Parthiban",
+    "age": 24,
+    "email": "parthibanvp@gmail.com"
+  },
+  "updateStudentName": {
+    "id": 8,
+    "name": "Parthiban V",
+    "age": 24,
+    "email": "parthibanvp@gmail.com"
+  },
+  "updateStudentAge": {
+    "id": 8,
+    "name": "Parthiban V",
+    "age": 23,
+    "email": "parthibanvp@gmail.com"
+  },
+  "createStudentWithoutEmail": {
+    "id": 10,
+    "name": "Parthiban",
+    "age": 24
+  },
+  "createStudentWithoutName": {
+    "id": 12,
+    "age": 24,
+    "email": "parthibanv123@gmail.com"
+  },
+  "createStudentWithoutAge": {
+    "id": 15,
+    "name": "Parthiban",
+    "age": 0,
+    "email": "parthibanv123@gmail.com"
+  },
+  "createStudentWithoutId": {
+    "id": 0,
+    "name": "Parthiban",
+    "age": 24,
+    "email": "parthibanv123@gmail.com"
+  }
+
+
+
+}
